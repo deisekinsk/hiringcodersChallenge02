@@ -1,0 +1,8 @@
+npx create-react-app vtex --template=typescript
+
+//remove
+rm -rf vtex
+
+//start
+npm start
+yarn start
