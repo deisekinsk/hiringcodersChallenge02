@@ -6,3 +6,12 @@ rm -rf vtex
 //start
 npm start
 yarn start
+
+//add
+npm add styled-components
+npm add @types/styled-components -D
+npm add json-server -D
+npm add axios
+
+//server
+npm json-server server.json -p 8888
