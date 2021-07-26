@@ -2,7 +2,7 @@
 
 Desafio #1: Ecommerce - Como colocar uma loja online? Site Oficial / Landing page
 
-NETLIFY: deisekinskchallenge02.netlify.app | ERRO!
+NETLIFY: https://deisekinskchallengehc.netlify.app/
 
 Obs.: Os Commits do desenvolvimento ficaram nessa pasta: https://github.com/deisekinsk/hiringcodersChallenge02/tree/main/vtex
 
