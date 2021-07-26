@@ -4,7 +4,7 @@
             "id": 1,
             "photo": "https://images.unsplash.com/photo-1591470481729-2bcc11e3acb8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
             "name": "Pink Suit",
-            "description":"A men pink suit",
+            "description":"Cotton suit",
             "price": 50.00
         },
 
@@ -14,6 +14,21 @@
             "name": "Shirt",
             "description":"Atemporal colorfull shirt",
             "price": 99.00
+        },
+        {
+            "id": 3,
+            "photo": "https://images.unsplash.com/photo-1529739121416-921f4dae728e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=701&q=80",
+            "name": "Yellow Jacket",
+            "description":"Cotton Jacket",
+            "price": 199.00
+        },
+        {
+            "id": 4,
+            "photo": "https://images.unsplash.com/photo-1533637651569-5a283fd54b11?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+            "name": "White T-shirt",
+            "description":"Cotton shirt",
+            "price": 19.00
         }
     ]
+    
 }

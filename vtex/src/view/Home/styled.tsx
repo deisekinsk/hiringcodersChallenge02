@@ -19,7 +19,7 @@ export const Content = styled.div`
         
         flex-wrap: wrap;
         justify-content: center;
-        align-items: center;
+        align-items: stretch;
         align-content: center;
         
         
@@ -36,8 +36,13 @@ export const Content = styled.div`
             
             height: 55%;
             padding: 12px;
-            border-radius: 12px;          
+            border-radius: 12px;
+            margin: 3px;       
     
+        },
+
+        .Button{
+            border-radius: 12px;
         }
 
 

@@ -37,6 +37,7 @@ const Home: React.FC = () =>{
                 <h4>{prod.name}</h4>
                 <span>{prod.description}</span>
                 <h1>R$ {prod.price}</h1>
+                <button className="Button"  >BUY</button>
             </div> 
         ))}        
         
