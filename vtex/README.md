@@ -1,6 +1,6 @@
 # Learn in Hiring Coders Brazil by Vtex and Gama Academy
 
-Desafio #1: Ecommerce - Como colocar uma loja online? Site Oficial / Landing page
+Desafio #: Ecommerce - Como colocar uma loja online? Site Oficial / Landing page
 
 NETLIFY: https://deisekinskchallengehc.netlify.app/
 
@@ -8,7 +8,7 @@ REACT: https://github.com/deisekinsk/hiringcodersChallenge02/tree/main/vtex
 
 
 
-⌨️ com ❤️ por [Deise Kinsk](https://www.linkedin.com/in/deise-kinsk-profile/) | kinsk@msn.com 😊
+⌨️ with ❤️ by [Deise Kinsk](https://www.linkedin.com/in/deise-kinsk-profile/) | kinsk@msn.com 😊
 
 
 ## Available Scripts
