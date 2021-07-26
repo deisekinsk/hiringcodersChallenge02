@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Learn in Hiring Coders Brazil by Vtex and Gama Academy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Desafio #1: Ecommerce - Como colocar uma loja online? Site Oficial / Landing page
+
+NETLIFY: https://blackfridaydeisekinsk.netlify.app/
+
+Obs.: Os Commits do desenvolvimento ficaram nessa pasta: https://github.com/deisekinsk/learnHiringCoders/commits/main/project_06
+
+
+
+⌨️ com ❤️ por [Deise Kinsk](https://www.linkedin.com/in/deise-kinsk-profile/) | kinsk@msn.com 😊
+
 
 ## Available Scripts
 
